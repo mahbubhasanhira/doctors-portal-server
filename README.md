@@ -8,14 +8,14 @@
 
 
 ### Project Features:
-    *Simple Clinic base website, where a patient can book an appointment according to the doctor and date of his choice.
-    *Doctors dashboard and Patients dashboard options are different.
-    *Doctors can see all Patients appointment from his dashboard.
-    *Doctors can add another Doctor from his dashboard.
-    *Doctors can change patient status.
-    *Users can see all his appointment history and current appointment from his dashboard.
-    *Device friendly and totally responsive.
-    *Secured Backend API with users jwt token.
+   * Simple Clinic base website, where a patient can book an appointment according to the doctor and date of his choice.
+   * Doctors dashboard and Patients dashboard options are different.
+   * Doctors can see all Patients appointment from his dashboard.
+   * Doctors can add another Doctor from his dashboard.
+   * Doctors can change patient status.
+   * Users can see all his appointment history and current appointment from his dashboard.
+   * Device friendly and totally responsive.
+   * Secured Backend API with users jwt 
 
 
 ### Usages Technology:
