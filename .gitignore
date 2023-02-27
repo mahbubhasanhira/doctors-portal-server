@@ -4,5 +4,4 @@
 #env
 .env
 
-#firebaseSecreat
-/firebaseSecreatKey
+firebase-adminsdk.json
