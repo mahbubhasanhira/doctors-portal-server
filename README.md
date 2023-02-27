@@ -15,8 +15,7 @@
    * Doctors can change patient status.
    * Users can see all his appointment history and current appointment from his dashboard.
    * Device friendly and totally responsive.
-   * Secured Backend API with users jwt 
-
+   * Secured Backend API with users jwt token.
 
 ### Usages Technology:
 **Frontend:** `Html, CSS, Bootstrap, React-Bootstrap, React JS, Javascript, Firebase.`<br />
